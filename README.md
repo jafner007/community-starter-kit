@@ -1,10 +1,13 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- Bot to automatically welcome new participants
+- It's really fun!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- When a new user submits their first issue or pull request, the bot sends a welcome message
+- Only messages the first time
+- Other thing
 
 ## Getting started
 
